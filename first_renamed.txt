@@ -1,0 +1,6 @@
+this is version 1 of text docs
+I want this to commit 
+change by bikash
+rm -rf .git # delete the git repository
+
+changing this
